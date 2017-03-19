@@ -34,5 +34,5 @@ namespace CSharpActiveX
         //    [MarshalAs(UnmanagedType.U4)] int dwOptionSetMask,
         //    [MarshalAs(UnmanagedType.U4)] int dwEnabledOptions);
     }
-    }
+    
 }
