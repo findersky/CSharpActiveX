@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Security.Permissions;
 using System.Runtime.InteropServices;
@@ -75,8 +74,8 @@ namespace CSharpActiveX
             // 
             this.Name = "ImageLoader";
             this.Size = new System.Drawing.Size(0, 0);
-            this.Width = 0;
-            this.Height = 0;
+            //this.Width = 0;
+            //this.Height = 0;
             this.ResumeLayout(false);
 
         }
